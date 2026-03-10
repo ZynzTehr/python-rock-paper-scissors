@@ -1,0 +1,20 @@
+{
+  "name": "python-rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rps.py",
+  "scripts": {
+    "start": "nodemon rps_dictionary.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://in-pcf-learners-gitlab.tlm.cloud/jorge-bucio-299356/python-rock-paper-scissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
